@@ -10,7 +10,7 @@ Usage
 -----
 
 
-  import htmlextractor from copyrightextractor
+  from copyrightextractor import htmlextractor
 
   copyright = htmlextractor.extract(html_body)
 
