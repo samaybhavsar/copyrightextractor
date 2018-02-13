@@ -1,0 +1,1 @@
+from copyrightextractor import htmlextractor
