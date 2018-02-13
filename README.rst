@@ -1,16 +1,17 @@
-# Copyright Detector/Extractor - Detects and Extracts Copyright Snippet from HTML Edit
+Copyright Detector/Extractor - Detects and Extracts Copyright Snippet from HTML Edit
 
-## Installation
+Installation
+------------
 
-`pip install copyrightextractor`
+  pip install copyrightextractor
 
 
-## Usage
+Usage
+-----
 
-~~~~
-import htmlextractor from copyrightextractor
 
-copyright = htmlextractor.extract(html_body)
+  import htmlextractor from copyrightextractor
 
-print copyright
-~~~~
+  copyright = htmlextractor.extract(html_body)
+
+  print copyright
