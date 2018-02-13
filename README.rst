@@ -3,7 +3,7 @@ Copyright Detector/Extractor - Detects and Extracts Copyright Snippet from HTML 
 Installation
 ------------
 
-  pip install copyrightextractor
+  pip3 install copyrightextractor
 
 
 Usage
@@ -14,4 +14,4 @@ Usage
 
   copyright = htmlextractor.extract(html_body)
 
-  print copyright
+  print(copyright)
